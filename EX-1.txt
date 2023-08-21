@@ -1,17 +1,3 @@
-                                             HOSTING WEBPAGE IN GITHUB REPOSITORY
-
-Expt No: 1
-Date :
-
-AIM:
-To design a web page using HTML tags and upload it in Github repository.
-
-ALGORITHM:
-Step1: Open notepad and type the code.
-Step2: Save the file with .html extension.
-Step3: Open your github account and upload the .html file along with the images used in the webpage.
-
-PROGRAM:
 <!DOCTYPE html>
 <html>
 <body>
